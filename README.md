@@ -89,8 +89,8 @@ innohead/
 
 ### Admin Login
 
-- Email: admin@innohead.com
-- Password: admin123
+- Email: admin@gmail.com
+- Password: 111111
 
 ## API Endpoints
 
